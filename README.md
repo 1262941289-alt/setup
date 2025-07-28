@@ -142,10 +142,20 @@
 
 ### 文件命名规范
 
-- 核心设定：`数字-描述.md`
-- 章节内容：`第X章-标题.md`
-- 特殊设定：`0-描述.md`
-
+- 核心设定：`(https://raw.githubusercontent.com/1262941289-alt/setup/refs/heads/main/0-%E8%8B%8F%E9%9D%92%E4%BA%91%E5%AE%A0%E7%89%A9%E4%BD%93%E7%B3%BB%E8%AE%BE%E5%AE%9A.md)
+- https://raw.githubusercontent.com/1262941289-alt/setup/refs/heads/main/01-%E4%B8%96%E7%95%8C%E8%A7%82%E4%B8%8E%E5%A2%83%E7%95%8C%E4%BD%93%E7%B3%BB.md
+- https://raw.githubusercontent.com/1262941289-alt/setup/refs/heads/main/05-%E4%BF%AE%E4%BB%99%E7%95%8C%E7%9C%9F%E5%AE%9E%E8%AE%BE%E5%AE%9A.md
+- 
+- 章节内容：`https://raw.githubusercontent.com/1262941289-alt/setup/refs/heads/main/%E7%AC%AC%E4%B8%80%E7%AB%A0-%E8%8B%8F%E9%9D%92%E4%BA%91%E7%9A%84%E6%97%A5%E5%B8%B8.md
+- 特殊设定：`(https://raw.githubusercontent.com/1262941289-alt/setup/refs/heads/main/0-%E8%8B%8F%E9%9D%92%E4%BA%91%E5%AE%A0%E7%89%A9%E4%BD%93%E7%B3%BB%E8%AE%BE%E5%AE%9A.md)
+- https://raw.githubusercontent.com/1262941289-alt/setup/refs/heads/main/03-%E5%8A%9F%E6%B3%95%E6%AD%A6%E6%8A%80%E4%B8%8E%E5%A6%96%E5%85%BD%E7%99%BE%E7%A7%91.md
+- https://raw.githubusercontent.com/1262941289-alt/setup/refs/heads/main/07-%E5%99%A8%E7%81%B5.md
+- https://raw.githubusercontent.com/1262941289-alt/setup/refs/heads/main/08-%E8%8B%8F%E9%9D%92%E4%BA%91%E4%BE%8D%E5%A5%B3%E5%9B%A2%E6%8C%89%E7%A7%8D%E6%97%8F%E5%88%86%E7%B1%BB%E7%89%88.md
+- https://raw.githubusercontent.com/1262941289-alt/setup/refs/heads/main/09-%E5%8A%BF%E5%8A%9B%E5%A4%A7%E7%99%BE%E7%A7%91.md
+- https://raw.githubusercontent.com/1262941289-alt/setup/refs/heads/main/10-%E5%9C%B0%E7%82%B9%E5%A4%A7%E7%99%BE%E7%A7%91.md
+- https://raw.githubusercontent.com/1262941289-alt/setup/refs/heads/main/11-%E5%87%A1%E4%BF%97%E5%A2%83%E7%95%8C%E8%AF%A6%E7%BB%86%E8%AE%BE%E5%AE%9A.md
+- https://raw.githubusercontent.com/1262941289-alt/setup/refs/heads/main/12-%E8%8B%8F%E5%AE%B6%E4%B8%89%E4%BD%8D%E9%95%BF%E8%BE%88%E5%A5%B3%E6%80%A7%E7%9A%84%E6%9E%81%E5%BA%A6%E6%BA%BA%E7%88%B1%E8%AE%BE%E5%AE%9A.md
+https://raw.githubusercontent.com/1262941289-alt/setup/refs/heads/main/13%E7%89%A9%E5%93%81%E5%A4%A7%E7%99%BE%E7%A7%91.md
 ## 📄 许可证
 
 本项目为创作资料，仅供参考和学习使用。
