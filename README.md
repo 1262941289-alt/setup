@@ -145,7 +145,8 @@
 - 核心设定：`(https://raw.githubusercontent.com/1262941289-alt/setup/refs/heads/main/0-%E8%8B%8F%E9%9D%92%E4%BA%91%E5%AE%A0%E7%89%A9%E4%BD%93%E7%B3%BB%E8%AE%BE%E5%AE%9A.md)
 - https://raw.githubusercontent.com/1262941289-alt/setup/refs/heads/main/01-%E4%B8%96%E7%95%8C%E8%A7%82%E4%B8%8E%E5%A2%83%E7%95%8C%E4%BD%93%E7%B3%BB.md
 - https://raw.githubusercontent.com/1262941289-alt/setup/refs/heads/main/05-%E4%BF%AE%E4%BB%99%E7%95%8C%E7%9C%9F%E5%AE%9E%E8%AE%BE%E5%AE%9A.md
-- 
+- https://raw.githubusercontent.com/1262941289-alt/setup/refs/heads/main/04-%E5%89%A7%E6%83%85%E8%A7%84%E5%88%92%E4%B8%8ENPC%E8%AE%BE%E5%AE%9A.md
+- https://raw.githubusercontent.com/1262941289-alt/setup/refs/heads/main/06-%E7%AB%A0%E8%8A%82%E5%88%B6%E4%BD%9C%E6%B5%81%E7%A8%8B%E4%B8%8E%E5%88%9B%E4%BD%9C%E8%A7%84%E5%88%99.md
 - 章节内容：`https://raw.githubusercontent.com/1262941289-alt/setup/refs/heads/main/%E7%AC%AC%E4%B8%80%E7%AB%A0-%E8%8B%8F%E9%9D%92%E4%BA%91%E7%9A%84%E6%97%A5%E5%B8%B8.md
 - 特殊设定：`(https://raw.githubusercontent.com/1262941289-alt/setup/refs/heads/main/0-%E8%8B%8F%E9%9D%92%E4%BA%91%E5%AE%A0%E7%89%A9%E4%BD%93%E7%B3%BB%E8%AE%BE%E5%AE%9A.md)
 - https://raw.githubusercontent.com/1262941289-alt/setup/refs/heads/main/03-%E5%8A%9F%E6%B3%95%E6%AD%A6%E6%8A%80%E4%B8%8E%E5%A6%96%E5%85%BD%E7%99%BE%E7%A7%91.md
